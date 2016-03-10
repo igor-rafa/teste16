@@ -30,5 +30,10 @@ public class ClienteTest {
 	public void test() {
 		fail("Not yet implemented");
 	}
+	
+	public void numero(){
+		
+	}
+	}
 
 }
